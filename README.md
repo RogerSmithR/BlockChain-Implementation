@@ -11,4 +11,5 @@ The project is focused on implementing Bitcoin blockchain data structures in C#
 
 ## Run the code:
 You can copy and paste the code on the folowing site:
-[here]([dotnetfiddle.net](https://dotnetfiddle.net/))
+https://dotnetfiddle.net/
+([https://www.example.com](https://dotnetfiddle.net/)https://dotnetfiddle.net/)
