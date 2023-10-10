@@ -1,5 +1,8 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
+using System.Collections.Generic;
+using System;
+using System.Linq;
 
 // function to create eliptic curve key pair
 public class PairOfKeys
