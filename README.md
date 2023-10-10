@@ -8,3 +8,7 @@ The project is focused on implementing Bitcoin blockchain data structures in C#
 - Block Addition: Three additional blocks are added to the Genesis block, each containing four transactions. These transactions are assumed to be single-input-single-output transactions for simplicity.
 - Cryptographic Primitives Verification: The program must verify that each cryptographic primitive is implemented correctly.
 - The desired output of the project includes displaying all three blocks and the transactions contained within them as they occur. This involves showing all the required fields for each block and transaction. Additionally, the program should calculate and display the balance of each account after the 12 transactions. It's mentioned that you can hardcode the transaction information/data in your code.
+
+## Run the code:
+You can copy and paste the code on the folowing site:
+[here]([dotnetfiddle.net](https://dotnetfiddle.net/))
