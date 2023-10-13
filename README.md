@@ -1,4 +1,4 @@
-# BlockChain-Implementation
+# Blockchain Implementation
 The project is focused on implementing Bitcoin blockchain data structures in C#
 ## Key Tasks:
 - User and Key Pair Generation: The project starts by defining six users and creating EC (Elliptic Curve) public key pairs for each user.
